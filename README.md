@@ -2,7 +2,7 @@
 
 # Mobile Money And Financial Inclusion
 
-## *Predicting The Level Of Financial Inclusion Among Mobile Subscribers
+## *Predicting The Level Of Financial Inclusion Among Mobile Subscribers*
 
 ### By: Silla Mullei
 
