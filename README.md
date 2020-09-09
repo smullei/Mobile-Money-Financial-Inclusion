@@ -1,8 +1,8 @@
+# Professional Certificate In Applied Data Science: Capstone Project
+
 # Mobile Money And Financial Inclusion
 
-# Professional Certificate In Applied Data Science
-
-## Capstone Project: Predicting The Level Of Financial Inclusion Of Mobile Subscribers
+## *Predicting The Level Of Financial Inclusion Among Mobile Subscribers
 
 ### By: Silla Mullei
 
