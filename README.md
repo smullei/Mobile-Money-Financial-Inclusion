@@ -2,7 +2,7 @@
 
 # Professional Certificate In Applied Data Science
 
-## Capstone Project: Predicting The Level Of Financial Inclusion Of Mobile Customers
+## Capstone Project: Predicting The Level Of Financial Inclusion Of Mobile Subscribers
 
 ### By: Silla Mullei
 
